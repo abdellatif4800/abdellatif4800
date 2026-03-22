@@ -1,18 +1,30 @@
-# 👋 Hi, I'm Abdellatif! 
+# 👋 Hi, I'm Mohamed Abdellatif! 
 
 ### 🚀 Freelance Full-Stack Software Engineer | Web & Mobile Solutions
 
-I help businesses and founders turn their ideas into scalable, production-ready applications. Whether you need a high-performance web platform, a cross-platform mobile app, or a robust API, I handle the entire development lifecycle—from clean UI implementation to secure backend architecture and deployment.
+I help businesses, startups, and founders turn their ideas into scalable, production-ready applications. Whether you need a high-performance web platform, a cross-platform mobile app, or a robust API, I handle the entire development lifecycle—from clean UI implementation to secure backend architecture and deployment.
 
 ---
 
 ### 💼 What I Can Build For You
 
 * **Custom SaaS & Web Apps:** Building responsive, fast-loading applications using **React**, **Next.js**, and **Angular**.
+* **E-commerce & Marketplaces:** Extensive experience building multi-vendor e-commerce platforms, SaaS CRMs, and integrating secure payment gateways like **Stripe** and **Paymob**.
+* **EdTech & LMS:** Designing complex Learning Management Systems with robust architectures (GraphQL, NestJS).
 * **Mobile Development:** Crafting cross-platform mobile applications with **React Native**.
 * **Robust Backends:** Designing secure RESTful and GraphQL APIs using **Node.js (Express/NestJS)** or **Python (Django/FastAPI)**.
-* **E-commerce & Platforms:** Experience building Multi-vendor marketplaces, Learning Management Systems (LMS), and integrating payment gateways like **Stripe** and **Paymob**.
 * **DevOps & Hosting:** Ensuring your app is highly available and scalable using **Docker**, custom Linux servers, and cloud providers.
+
+---
+
+### 🤝 Hire Me For Your Next Project
+I am available for freelance work and actively taking on new clients. You can view my reviews, past projects, and hire me directly through any of the platforms below:
+
+[![Mostaql](https://img.shields.io/badge/Mostaql-%232980b9.svg?style=for-the-badge&logoColor=white)](https://mostaql.com/u/Abdellatif_2000)
+[![Khamsat](https://img.shields.io/badge/Khamsat-%232CA17B.svg?style=for-the-badge&logoColor=white)](https://khamsat.com/user/moharmd_abdellatif)
+[![Nafezly](https://img.shields.io/badge/Nafezly-%236c5ce7.svg?style=for-the-badge&logoColor=white)](https://nafezly.com/u/abdellatif48)
+
+*Communication available in both **Arabic** and **English**.*
 
 ---
 
@@ -47,10 +59,8 @@ I help businesses and founders turn their ideas into scalable, production-ready 
 
 ---
 
-### 🤝 Ready to start your project?
-I am currently **open to new freelance opportunities**. If you have a project in mind, let's discuss how we can bring it to life.
-
-- 📅 **Book a chat:** [Link to your Calendly or Upwork profile if you have one]
+### 📬 Contact Me Directly
+If you prefer to discuss your project off-platform, feel free to reach out:
 - 📫 **Email:** [mabdellatif82000@gmail.com](mailto:mabdellatif82000@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mabdellatif48](https://www.linkedin.com/in/mabdellatif48/)
 - 🌍 **Timezone:** EET (Based in Egypt)
