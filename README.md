@@ -36,7 +36,7 @@ I’m a software engineer passionate about building scalable web applications an
 ### 🤝 Let's Connect!
 - 🌍 Based in **Egypt**
 - 💬 Ask me about **PERN/MERN stack, Dockerizing apps, or deployment hurdles.**
-- 📫 How to reach me: [Your Email or LinkedIn Link]
+- 📫 How to reach me: [in/mabdellatif48/](https://www.linkedin.com/in/mabdellatif48/)
 
 ---
 "Shipping clean code from localhost to production."
