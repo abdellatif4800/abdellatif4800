@@ -54,7 +54,7 @@ I am available for freelance work and actively taking on new clients. You can vi
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abdellatif4800&show_icons=true&theme=radical" alt="Abdellatif's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdellatif4800&show_icons=true&theme=radical&v=1" alt="Abdellatif's GitHub stats" />
 </p>
 
 ---
