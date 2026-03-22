@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdellatif! 
 
-### 🚀 Full-Stack Developer | PERN & MERN Specialist | Docker Enthusiast
+### 🚀 Full-Stack Developer | PERN & MERN Specialist | DevOps Enthusiast
 
 I’m a software engineer passionate about building scalable web applications and streamlining deployment pipelines. I bridge the gap between clean frontend code and robust backend architecture, ensuring everything is containerized and ready to ship.
 
@@ -8,16 +8,20 @@ I’m a software engineer passionate about building scalable web applications an
 
 ### 🛠️ My Tech Stack
 
-**Frontend & Styling**
+**Frontend & Mobile**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **DevOps & Deployment**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,8 +39,8 @@ I’m a software engineer passionate about building scalable web applications an
 
 ### 🤝 Let's Connect!
 - 🌍 Based in **Egypt**
-- 💬 Ask me about **PERN/MERN stack, Dockerizing apps, or deployment hurdles.**
-- 📫 How to reach me: [in/mabdellatif48/](https://www.linkedin.com/in/mabdellatif48/) . mabdellatif82000@gmail.com
+- 💬 Ask me about **PERN/MERN stack, Python/Django, Dockerizing apps, or mobile dev.**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mabdellatif48/) | [mabdellatif82000@gmail.com](mailto:mabdellatif82000@gmail.com)
 
 ---
 "Shipping clean code from localhost to production."
