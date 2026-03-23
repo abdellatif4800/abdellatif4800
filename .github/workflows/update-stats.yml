@@ -1,0 +1,29 @@
+name: Update Stats Automatically
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours automatically
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to push the images to your repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Download Activity Graph
+        run: curl "https://github-readme-activity-graph.vercel.app/graph?username=abdellatif4800&theme=react-dark" -o activity-graph.svg
+
+      - name: Download Streak Stats
+        run: curl "https://streak-stats.demolab.com?user=abdellatif4800&theme=radical&hide_border=true" -o streak-stats.svg
+
+      - name: Commit and Push SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg streak-stats.svg
+          git commit -m "Auto-update GitHub stats [skip ci]" || exit 0
+          git push
