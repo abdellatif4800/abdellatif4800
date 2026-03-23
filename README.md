@@ -52,15 +52,15 @@ I am available for freelance work and actively taking on new clients. You can vi
 
 ---
 
-### 📈 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abdellatif4800&theme=react-dark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellatif4800&theme=minimalist" alt="Activity Graph">
-</picture>
+<p align="left">
+  <img src="./activity-graph.svg" alt="Activity Graph">
+</p>
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=abdellatif4800&theme=radical&hide_border=true" alt="GitHub Streak" />
+<p align="left">
+  <img src="./streak-stats.svg" alt="GitHub Streak">
+</p>
 
 ---
 
