@@ -60,6 +60,10 @@ I am available for freelance work and actively taking on new clients. You can vi
 
 ---
 
+<img src="https://streak-stats.demolab.com?user=abdellatif4800&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+---
+
 ### 📬 Contact Me Directly
 If you prefer to discuss your project off-platform, feel free to reach out:
 - 📫 **Email:** [mabdellatif82000@gmail.com](mailto:mabdellatif82000@gmail.com)
