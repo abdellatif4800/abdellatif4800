@@ -15,7 +15,7 @@ I specialize in translating complex business requirements into scalable, high-pe
 
 Have an idea or a project in mind? Let's turn it into reality. Feel free to reach out to me directly or hire me through your preferred freelance platform:
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdellatif82000L@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdellatif82000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdellatif48/)
 
 **Freelance Profiles:** [![Upwork](https://img.shields.io/badge/Upwork-60d91a?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ce076ceb934dd665)
