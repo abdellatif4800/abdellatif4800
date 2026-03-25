@@ -30,14 +30,13 @@ I build scalable, production-ready web applications — from pixel-perfect UIs t
 
 ---
 
-### 📬 Contact Me Directly
-If you prefer to discuss your project off-platform, feel free to reach out:
-- 📫 **Email:** [mabdellatif82000@gmail.com](mailto:mabdellatif82000@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/mabdellatif48](https://www.linkedin.com/in/mabdellatif48/)
-- 🌍 **Timezone:** EET (Based in Egypt)
-
-[![Mostaql](https://img.shields.io/badge/Mostaql-%232980b9.svg?style=for-the-badge&logoColor=white)](https://mostaql.com/u/Abdellatif_2000)
-[![Khamsat](https://img.shields.io/badge/Khamsat-%232CA17B.svg?style=for-the-badge&logoColor=white)](https://khamsat.com/user/moharmd_abdellatif)
+**HIRE ME** 
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdellatif82000L@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabdellatif48/)
+[![Upwork](https://img.shields.io/badge/Upwork-60d91a?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ce076ceb934dd665)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/MAbdellatif48) 
+[![Mostaql](https://img.shields.io/badge/Mostaql-%232980b9.svg?style=for-the-badge&logoColor=white)](https://mostaql.com/u/Abdellatif_2000) 
+[![Khamsat](https://img.shields.io/badge/Khamsat-%232CA17B.svg?style=for-the-badge&logoColor=white)](https://khamsat.com/user/moharmd_abdellatif) 
 [![Nafezly](https://img.shields.io/badge/Nafezly-%236c5ce7.svg?style=for-the-badge&logoColor=white)](https://nafezly.com/u/abdellatif48)
 
 ---
