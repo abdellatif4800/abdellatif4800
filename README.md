@@ -5,12 +5,6 @@ I specialize in translating complex business requirements into scalable, high-pe
 > *"Delivering clean code, reliable architecture, and tangible business value."*
 ---
 
-<p align="center">
-  <img src="./streak-stats.svg" alt="GitHub Streak">
-</p>
-
----
-
 ### 🤝 Let's Work Together!
 
 Have an idea or a project in mind? Let's turn it into reality. Feel free to reach out to me directly or hire me through your preferred freelance platform:
@@ -41,6 +35,11 @@ Have an idea or a project in mind? Let's turn it into reality. Feel free to reac
 
 ---
 
+<p align="center">
+  <img src="./streak-stats.svg" alt="GitHub Streak">
+</p>
+
+---
 **Backend & Runtime**
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com) • ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) • [![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) • ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) • ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 
