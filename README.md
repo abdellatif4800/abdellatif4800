@@ -33,8 +33,8 @@ Have an idea, a project, or an opportunity to collaborate? Feel free to reach ou
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Frontend Development**
 
@@ -45,7 +45,6 @@ Have an idea, a project, or an opportunity to collaborate? Feel free to reach ou
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 **Backend Development**
 
@@ -53,6 +52,8 @@ Have an idea, a project, or an opportunity to collaborate? Feel free to reach ou
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 
@@ -62,25 +63,17 @@ Have an idea, a project, or an opportunity to collaborate? Feel free to reach ou
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MinIO](https://img.shields.io/badge/minio-%23BE2035.svg?style=for-the-badge&logo=minio&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-%23FE0807.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+![SeaweedFS](https://img.shields.io/badge/SeaweedFS-%232A9D8F?style=for-the-badge&logo=files&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **IT Infrastructure & DevOps**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-Areas of interest:
-- Server installation and administration
-- Virtualization and VM management
-- Linux server environments
-- Networking and storage
-- Application deployment and self-hosted services
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Development Tools & Platforms**
 
@@ -93,7 +86,7 @@ Areas of interest:
 
 ### 💼 Areas of Interest
 
-- **Full-Stack Development:** Building modern web applications using React, Angular, Spring Boot, Node.js, and Python.
+- **Full-Stack Development:** Building modern web applications using React, Angular, Spring Boot, Node.js, and Go.
 - **Enterprise Applications:** Developing business dashboards, SaaS platforms, CRM systems, and workflow management solutions.
 - **Backend Engineering:** Designing REST APIs, GraphQL services, database architectures, and maintainable backend systems.
 - **IT Infrastructure:** Working with physical servers, virtualization, Linux environments, networking, and storage.
